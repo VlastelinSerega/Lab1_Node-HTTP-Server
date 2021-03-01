@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wa",
+				"waves-light"
+			],
+			[
+				"pla",
+				"player_1"
+			],
+			[
+				"pal",
+				"player_2"
+			],
+			[
+				"play",
+				"player_1"
+			],
+			[
+				"player",
+				"player_2"
+			],
+			[
+				"p",
+				"player_2"
+			],
+			[
+				"pl",
+				"player_1"
+			],
+			[
+				"c",
+				"chis"
+			],
+			[
+				"i",
+				"input"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/сайт/index.html",
+		"/C/Users/Серёжа/Desktop/web/web/contact.html",
+		"/C/Users/Серёжа/Desktop/web/web/services.html",
+		"/C/Users/Серёжа/Desktop/web/web/about.html",
+		"/C/Users/Серёжа/Desktop/web/web/index.html",
+		"/C/python/sets.py",
+		"/C/python/Casino.py",
+		"/C/Users/Серёжа/Desktop/Berusyte/css/style.css",
+		"/C/Users/Серёжа/Desktop/Berusyte/index.html",
+		"/C/Users/Серёжа/Desktop/bootstrap/сайт.html",
+		"/C/Users/Серёжа/Desktop/dfdfff/style.css",
+		"/C/Users/Серёжа/Desktop/лаб 3.html",
+		"/C/Users/Серёжа/Desktop/Ищщеы/index.html",
+		"/C/Users/Серёжа/Desktop/bootstrap/css/style.css",
+		"/C/Users/Серёжа/Desktop/bootstrap/js/script.js",
+		"/D/Для ВУЗА/2 курс/Клиентские интернет-технологии/1 лаба/Site/1.js",
+		"/D/Для ВУЗА/2 курс/Клиентские интернет-технологии/1 лаба/Site/3.html",
+		"/C/Users/Серёжа/Desktop/CalcJS/calc.html",
+		"/C/Users/Серёжа/Desktop/CalcJS/calc.css",
+		"/C/Users/Серёжа/Desktop/CalcJS/main.js",
+		"/C/python/repeat.py",
+		"/C/python/dise.py",
+		"/C/python/dictionary.py",
+		"/C/python/cor.py",
+		"/C/python/mass.py",
+		"/D/burzum/index.html",
+		"/D/burzum/1.js",
+		"/C/Users/Серёжа/Desktop/CalcJS/Новая папка/boots.html",
+		"/C/python/Calc.py",
+		"/C/python/first.py",
+		"/C/python/random.py",
+		"/C/python/print('Hello world').py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
